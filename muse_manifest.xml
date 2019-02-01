@@ -1,0 +1,376 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="prepauii.mx" resolutions="1x" timestamp="1534867748860">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="3957981662" ref="index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="229297730" ref="index"/>
+    <file name="master_ficha.css" crc="4007253008" ref="solicitud-de-ficha"/>
+    <file name="solicitud-de-ficha.css" crc="4027980989" ref="solicitud-de-ficha"/>
+    <file name="index.css" crc="60637056" ref="index"/>
+    <file name="nomq_index.css" crc="452554895" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="video01.jpg" crc="4079470123" seo="true" mt="1520434861000"/>
+    <file name="video02.jpg" crc="22323603" seo="true" mt="1520435998000"/>
+    <file name="video03.jpg" crc="3801851077" seo="true" mt="1520436038000"/>
+    <file name="video04.jpg" crc="446810347" seo="true" mt="1520435820000"/>
+    <file name="calendario-prepa-uii-matutina-agosto-diciembre-2018.pdf" crc="4186355662" seo="true" mt="1533996831000"/>
+    <file name="prepam.pdf" crc="4286847203" seo="true" mt="1534866614000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:phone>index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:solicitud-de-ficha:phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:solicitud-de-ficha"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="inicio-favicon.ico" crc="255854814" ref="phone>index"/>
+    <file name="prepauii.png" crc="4033439830" seo="true" ref="phone>index:index:solicitud-de-ficha">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solicitud-de-ficha" alt=""/>
+    </file>
+    <file name="menu01.png" crc="3990623996" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu02.png" crc="428812967" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back01.png" crc="4118997230" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back02.png" crc="334252425" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1080786.jpg" crc="4047686444" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instituto irapuato portada 02 2017.jpg" crc="19649653" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frase.jpg" crc="89455169" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1070147.jpg" crc="3971930427" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="institutoirapuato.png" crc="3894850593" seo="true" ref="phone>index:index:solicitud-de-ficha">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solicitud-de-ficha" alt=""/>
+    </file>
+    <file name="space.png" crc="4077256293" seo="true" ref="index:solicitud-de-ficha">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solicitud-de-ficha" alt=""/>
+    </file>
+    <file name="u1710.png" crc="3918013596" ref="index"/>
+    <file name="u1710-r.png" crc="321765376" ref="index"/>
+    <file name="u1714.png" crc="3980977348" ref="index"/>
+    <file name="u1714-r.png" crc="139947067" ref="index"/>
+    <file name="u1712.png" crc="3872253308" ref="index"/>
+    <file name="u1712-r.png" crc="4120803894" ref="index"/>
+    <file name="registro_01.png" crc="234100604" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="registro_02.png" crc="299694759" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0112 corregida web - copia.jpg" crc="333527715" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mas.png" crc="3130136" ref="index">
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+    </file>
+    <file name="menos.png" crc="4216935385" ref="index">
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+      <caption webpage="index" alt="TUTORÍAS"/>
+      <caption webpage="index" alt="ASESORÍAS PERMANENTES"/>
+      <caption webpage="index" alt="EVALUACIONES"/>
+      <caption webpage="index" alt="CERTIFICACIÓN MICROSOFT"/>
+    </file>
+    <file name="img_8165 as smart object-2.jpg" crc="3961596377" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0221 web - copia.jpg" crc="3980795330" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0160 web - copia.jpg" crc="350486732" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_09802.jpg" crc="318071129" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1110850 - copia.jpg" crc="4211227349" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1120123 - copia-u16662-fr.jpg" crc="4008019486" ref="index"/>
+    <file name="left.png" crc="4027553203" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="left2.png" crc="358629665" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close03-u16350-fr.png" crc="4013607001" ref="index"/>
+    <file name="close01-u16350-r-fr.png" crc="419395932" ref="index"/>
+    <file name="inicioface.jpg" crc="4191122219" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="recurso 1.png" crc="3813378983" seo="true" ref="index:phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1120123 - copia-u16662-fr2.jpg" crc="410614155" ref="index"/>
+    <file name="p1120123 - copia-u16662-fr3.jpg" crc="276555192" ref="index"/>
+    <file name="p1120123 - copia-u16662-fr4.jpg" crc="4126839610" ref="index"/>
+    <file name="p1120123 - copia-u16662-fr5.jpg" crc="175966302" ref="index"/>
+    <file name="close03.png" crc="4198397575" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close01.png" crc="507741999" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="p1120123 - copia-u16662-fr6.jpg" crc="3907821416" ref="index"/>
+    <file name="favicon.ico" crc="3965565624" ref="solicitud-de-ficha"/>
+    <file name="foto banner prepa matutina.jpg" crc="291071681" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prepa 02b web.jpg" crc="4023411870" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="competencias transversales.jpg" crc="201142368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logos de red de colegios junto con el logo rsj.jpg" crc="4207612703" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 01 banner.jpg" crc="154798616" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 04 banner.jpg" crc="4089071185" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 03 banner.jpg" crc="3995703561" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foto 01 banner-u34862-fr.jpg" crc="8446890" ref="index"/>
+    <file name="foto 04 banner-u35021-fr.jpg" crc="4205485393" ref="index"/>
+    <file name="foto 03 banner-u35061-fr.jpg" crc="458176390" ref="index"/>
+    <file name="foto 01 banner-u34862-fr2.jpg" crc="162095585" ref="index"/>
+    <file name="foto 04 banner-u35021-fr2.jpg" crc="166816610" ref="index"/>
+    <file name="foto 03 banner-u35061-fr2.jpg" crc="93654056" ref="index"/>
+    <file name="foto 01 banner-u34862-fr3.jpg" crc="3849251296" ref="index"/>
+    <file name="foto 04 banner-u35021-fr3.jpg" crc="427094654" ref="index"/>
+    <file name="foto 03 banner-u35061-fr3.jpg" crc="3975366596" ref="index"/>
+    <file name="recurso 12.png" crc="3781802483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="256815232" ref="phone>index"/>
+      <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="113197205" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3841756564" seo="true" mt="1534867367130" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4022675254" seo="true" mt="1534867597109" redirect="true"/>
+  <file name="solicitud-de-ficha.html" crc="4082605688" seo="true" mt="1534354012556" redirect="true"/>
+</manifest>
